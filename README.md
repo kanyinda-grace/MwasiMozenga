@@ -1,4 +1,4 @@
-# beautyfrika
+# mwasimozoto
 
 A new Flutter application.
 
